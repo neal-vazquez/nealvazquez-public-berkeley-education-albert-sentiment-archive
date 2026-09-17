@@ -1,3 +1,5 @@
+> **Project moved:** this study now lives in the [Academic Research collection](https://github.com/neal-vazquez/neal-vazquez-site-public/tree/main/consulting-career/academic/albert-sentiment). This repository retains the original history and existing links.
+
 # ALBERT Sentiment Classification
 
 A compact transformer experiment in sentiment classification, responsible evaluation, and the difference between predictive performance and genuine generalization.
